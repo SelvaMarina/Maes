@@ -1,0 +1,30 @@
+<body  bgcolor="teal" text="white">
+
+ <H1>Mi versión de hola mundo para la tarea de</H1>
+ <H1>Diseño de Software</H1>
+  <ol>
+ 	<li>
+   	Proposito, Alcance y Objetivos. 
+		<P>Realizar el codigo de algo para verificar las instancias de desarrollo</P>
+	</li>
+	<li>
+   	Definir caracterisitcas, y requerimientos de usuarios. 
+		<P>Estas fueron muy abiertas, indicando que podian aceptar desde </P>
+		<P>un hola mundo, hasta algo mas elaborado.</P>
+ 	</li>
+	<li>
+  	 Definir la metodologia de desarrollo de Software. 
+		<P>.....</P>
+ 	</li>
+	<li>
+   	Establecer los Estandares de Desarrollo de Software. 
+		<P>Pues en este ejemplo solo utilice la tabulación... </P>
+ 	</li>
+	
+ </ol>
+ 
+<P>El diseño es algo organico que debe presentar flexibilidad</P>
+<P>y se debe tener en cuenta la metodologia elegida para el diseño </P>
+<P>y lograr un equilibrio entre el resultado esperado y el tiempo de diseño </H2>
+<H2>los objetivos deben ser correctamente valorados</P>
+</BODY>
